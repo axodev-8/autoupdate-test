@@ -1,1 +1,1 @@
-console.log("amogus123");
+console.log("amogus123 is the best");
